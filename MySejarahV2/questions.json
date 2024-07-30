@@ -1,0 +1,514 @@
+[
+  {
+    "qid": "1",
+    "questions": "Apakah gelaran yang digunakan oleh ketua negeri Pahang?",
+    "correct_ans": "Sultan",
+    "incorrect1": "Perdana Menteri",
+    "incorrect2": "Yang di-Pertuan Besar",
+    "level": "1"
+  },
+  {
+    "qid": "13",
+    "questions": "Bagaimanakah kedudukan bendera apabila dijadikan latar belakang orang yang berucap?",
+    "correct_ans": "Diletak lebih tinggi",
+    "incorrect1": "Diletak mendahului",
+    "incorrect2": "Diletak sebaris",
+    "level": "1"
+  },
+  {
+    "qid": "15",
+    "questions": "Apakah gelaran bagi rakyat yang ingkar terhadap titah dan perintah sultan?",
+    "correct_ans": "Derhaka",
+    "incorrect1": "Daulat",
+    "incorrect2": "Wibawa",
+    "level": "1"
+  },
+  {
+    "qid": "24",
+    "questions": "Apakah yang perlu dilakukan sekiranya murid yang sedang menggalas beg mendengar nyanyian lagu kebangsaan?",
+    "correct_ans": "Meletakkan beg di sisi",
+    "incorrect1": "Memangku beg",
+    "incorrect2": "Menggalas beg",
+    "level": "1"
+  },
+  {
+    "qid": "37",
+    "questions": "Apakah maksud lambang dua ekor harimau pada Jata Negara?",
+    "correct_ans": "Keberanian",
+    "incorrect1": "Kekuatan",
+    "incorrect2": "Keganasan",
+    "level": "1"
+  },
+  {
+    "qid": "38",
+    "questions": "Apakah yang dimaksudkan dengan daulat?",
+    "correct_ans": "Lambang kekuasaan tertinggi raja",
+    "incorrect1": "Daerah yang ditadbir secara sah",
+    "incorrect2": "Bandar yang ditadbir secara sah",
+    "level": "1"
+  },
+  {
+    "qid": "39",
+    "questions": "Siapakah yang dikekalkan sebagai ketua negeri semasa pendudukan Jepun?",
+    "correct_ans": "Raja",
+    "incorrect1": "Gabenor",
+    "incorrect2": "Maharaja",
+    "level": "1"
+  },
+  {
+    "qid": "40",
+    "questions": "Apakah gelaran ketua negeri bagi negeri Perlis?",
+    "correct_ans": "Raja",
+    "incorrect1": "Sultan",
+    "incorrect2": "Yang di-Pertua Negeri",
+    "level": "1"
+  },
+  {
+    "qid": "51",
+    "questions": "Apakah yang dimaksudkan dengan kerajaan?",
+    "correct_ans": "Negeri atau negara yang ditadbir secara sah",
+    "incorrect1": "Daerah yang ditadbir secara sah",
+    "incorrect2": "Mukim yang ditadbir secara sah",
+    "level": "1"
+  },
+  {
+    "qid": "52",
+    "questions": "Maklumat berikut berkaitan dengan institusi raja.\r\n\r\n(Pemerintah tertinggi sesebuah kerajaan berdaulat. Gelaran X digunakan selepas kedatangan Islam.)\r\n\r\nApakah yang dimaksudkan dengan gelaran X?",
+    "correct_ans": "Sultan",
+    "incorrect1": "Raja",
+    "incorrect2": "Maharaja",
+    "level": "1"
+  },
+  {
+    "qid": "61",
+    "questions": "Apakah yang dimaksudkan dengan lingua franca?",
+    "correct_ans": "Bahasa perantaraan atau perhubungan",
+    "incorrect1": "Bahasa persefahaman",
+    "incorrect2": "Bahasa peringatan",
+    "level": "1"
+  },
+  {
+    "qid": "2",
+    "questions": "Apakah organisasi yang menjalankan tugas pentadbiran sehingga kini?",
+    "correct_ans": "Majlis Eksekutif",
+    "incorrect1": "Raja atau sultan",
+    "incorrect2": "Majlis Tertinggi",
+    "level": "2"
+  },
+  {
+    "qid": "5",
+    "questions": "Apakah peranan yang tepat bagi bahasa Melayu sebagai lingua franca?",
+    "correct_ans": "Bahasa ekonomi",
+    "incorrect1": "Bahasa persuratan",
+    "incorrect2": "Bahasa pentadbiran",
+    "level": "2"
+  },
+  {
+    "qid": "7",
+    "questions": "Siapakah yang mengetuai pentadbiran bagi Negeri-negeri Selat?",
+    "correct_ans": "Gabenor",
+    "incorrect1": "Residen",
+    "incorrect2": "Menteri",
+    "level": "2"
+  },
+  {
+    "qid": "11",
+    "questions": "Apakah maksud lambang dua ekor harimau pada Jata Negara?",
+    "correct_ans": "Keberanian",
+    "incorrect1": "Kekuatan",
+    "incorrect2": "Kekentalan",
+    "level": "2"
+  },
+  {
+    "qid": "12",
+    "questions": "Bagaimanakah sejarah penciptaan awal bendera kebangsaan negara kita pada tahun 1949?",
+    "correct_ans": "Pertandingan mereka cipta bendera",
+    "incorrect1": "Pemilihan peringkat akhir",
+    "incorrect2": "Pemilihan bendera dilakukan",
+    "level": "2"
+  },
+  {
+    "qid": "14",
+    "questions": "Apakah lagu kebangsaan negara kita sebelum merdeka?",
+    "correct_ans": "God Save the Queen",
+    "incorrect1": "Merdeka",
+    "incorrect2": "Negaraku",
+    "level": "2"
+  },
+  {
+    "qid": "16",
+    "questions": "Apakah hukum yang terkandung dalam perundangan pada zaman Kesultanan Melayu Melaka?",
+    "correct_ans": "Hukum Islam",
+    "incorrect1": "Hukum dunia",
+    "incorrect2": "Hukum manusia",
+    "level": "2"
+  },
+  {
+    "qid": "19",
+    "questions": "Di manakah bendera Union Jack diturunkan pada 30 Ogos 19572",
+    "correct_ans": "Padang Banda Hilir, Melaka",
+    "incorrect1": "Padang Ipoh",
+    "incorrect2": "Lapangan Terbang Batu Berendam, Melaka",
+    "level": "2"
+  },
+  {
+    "qid": "22",
+    "questions": "Di manakah buat pertama kalinya bendera Persekutuan Tanah Melayu dikibarkan?",
+    "correct_ans": "Pekarangan Istana Sultan Selangor",
+    "incorrect1": "Dataran Merdeka",
+    "incorrect2": "Lapangan Terbang Batu Berendam, Melaka",
+    "level": "2"
+  },
+  {
+    "qid": "25",
+    "questions": "Siapakah yang membantu raja atau sultan untuk mentadbir pada Zaman Kerajaan Melayu Awal?",
+    "correct_ans": "Pembesar",
+    "incorrect1": "Gabenor",
+    "incorrect2": "Putera",
+    "level": "2"
+  },
+  {
+    "qid": "26",
+    "questions": "Apakah corak pentadbiran yang tertua di dunia?",
+    "correct_ans": "Pemerintahan beraja",
+    "incorrect1": "Pemerintahan demokrasi",
+    "incorrect2": "Pemerintahan republik",
+    "level": "2"
+  },
+  {
+    "qid": "27",
+    "questions": "Bagaimanakah bahasa Melayu berperanan sebagai bahasa persuratan pada masa dahulu?",
+    "correct_ans": "Hasil karya agung",
+    "incorrect1": "Lingua franca",
+    "incorrect2": "Penulisan surat\r\n",
+    "level": "2"
+  },
+  {
+    "qid": "28",
+    "questions": "Apakah antara strategi yang digunakan oleh kuasa asing untuk menguasai tanah air kita?",
+    "correct_ans": "Campur tangan",
+    "incorrect1": "Peperangan",
+    "incorrect2": "Warisan",
+    "level": "2"
+  },
+  {
+    "qid": "29",
+    "questions": "(Pada tahun 1909, negeri Kedah, Perlis, Kelantan. Terengganu diserahkan kepada British melalui Perjanjian Bangkok.)\r\n\r\nApakah kuasa asing yang melakukan Perjanjian tersebut?",
+    "correct_ans": "Siam",
+    "incorrect1": "Belanda",
+    "incorrect2": "Portugis",
+    "level": "2"
+  },
+  {
+    "qid": "33",
+    "questions": "Mengapakah terdapat bantahan terhadap Malayan Union?",
+    "correct_ans": "Menghapuskan kuasa raja-raja Melayu",
+    "incorrect1": "Mengukuhkan kuasa raja-raja Melayu",
+    "incorrect2": "Mengukuhkan ekonomi",
+    "level": "2"
+  },
+  {
+    "qid": "50",
+    "questions": "Mengapakah darurat diisytiharkan di seluruh negara pada tahun 1948?",
+    "correct_ans": "Keganasan komunis",
+    "incorrect1": "Kedatangan Jepun",
+    "incorrect2": "Pergolakan dalaman",
+    "level": "2"
+  },
+  {
+    "qid": "53",
+    "questions": "Siapakah yang menguruskan pentadbiran negeri-negeri Melayu semasa zaman pendudukan Jepun?",
+    "correct_ans": "Gabenor",
+    "incorrect1": "Penasihat",
+    "incorrect2": "Perdana Menteri",
+    "level": "2"
+  },
+  {
+    "qid": "54",
+    "questions": "Apakah institusi raja berdasarkan maklumat berikut?\r\n\r\n(Raja atau sultan dibantu oleh para pembesar untuk mentadbir kerajaan.)",
+    "correct_ans": "Zaman Kerajaan Melayu Awal",
+    "incorrect1": "Selepas merdeka hingga kini",
+    "incorrect2": "Zaman pendudukan Jepun",
+    "level": "2"
+  },
+  {
+    "qid": "55",
+    "questions": "Apakah bukti arkeologi tentang kewujudan agama Islam di Tanah Melayu?",
+    "correct_ans": "Batu bersurat",
+    "incorrect1": "Muzium",
+    "incorrect2": "Hukum Kanun Melaka",
+    "level": "2"
+  },
+  {
+    "qid": "56",
+    "questions": "Siapakah ulama yang mengislamkan raja, pembesar dan rakyat Melaka?",
+    "correct_ans": "Syeikh Abdul Aziz",
+    "incorrect1": "Sheikh Muszaphar Shukor",
+    "incorrect2": "Abu Ubaidah",
+    "level": "2"
+  },
+  {
+    "qid": "57",
+    "questions": "Apakah undang-undang yang berkaitan dengan peraturan di laut Melaka?",
+    "correct_ans": "Undang-undang Laut Melaka",
+    "incorrect1": "Hukum Kanun Melaka",
+    "incorrect2": "Hukum Kanun Pahang",
+    "level": "2"
+  },
+  {
+    "qid": "58",
+    "questions": "Apakah agama Persekutuan yang termaktub dalam Perlembagaan Persekutuan?",
+    "correct_ans": "Agama Islam",
+    "incorrect1": "Agama Hindu",
+    "incorrect2": "Agama Kristian",
+    "level": "2"
+  },
+  {
+    "qid": "59",
+    "questions": "Pernyataan berikut merujuk kepada agama Islam dalam memupuk perpaduan masyarakat.\r\n\r\n(Mengadakan mesyuarat untuk mendapatkan keputusan bersama.)\r\n\r\nApakah nilai sejagat yang bertepatan dengan penyataan tersebut?",
+    "correct_ans": "Perdamaian",
+    "incorrect1": "Kesederhanaan",
+    "incorrect2": "Toleransi",
+    "level": "2"
+  },
+  {
+    "qid": "60",
+    "questions": "Apakah bahasa yang berasal daripada filum yang disebut Austrik?",
+    "correct_ans": "Bahasa Melayu",
+    "incorrect1": "Bahasa Arab",
+    "incorrect2": "Bahasa Inggeris",
+    "level": "2"
+  },
+  {
+    "qid": "62",
+    "questions": "Bagaimanakah cara perbendaharaan kata dalam bahasa Melayu diperkaya?",
+    "correct_ans": "Kedatangan pengaruh luar",
+    "incorrect1": "Penyebaran oleh penjajah",
+    "incorrect2": "Diwarisi dari kecil",
+    "level": "2"
+  },
+  {
+    "qid": "63",
+    "questions": "Apakah pengaruh bahasa luar bagi kosa kata berikut?\r\n\r\n(veradha --> beranda)",
+    "correct_ans": "Portugis",
+    "incorrect1": "Sanskrit",
+    "incorrect2": "Belanda",
+    "level": "2"
+  },
+  {
+    "qid": "64",
+    "questions": "Bagaimanakah bahasa Melayu berperanan sebagai bahasa persuratan?",
+    "correct_ans": "Hasil karya agung",
+    "incorrect1": "Penulisan surat",
+    "incorrect2": "Panduan undang-undang",
+    "level": "2"
+  },
+  {
+    "qid": "3",
+    "questions": "Bagaimanakah pedagang Islam dari negara Arab dan India menyebarkan agama Islam?",
+    "correct_ans": "Kegiatan dakwah",
+    "incorrect1": "Kegiatan ceramah",
+    "incorrect2": "Kegiatan nasyid",
+    "level": "3"
+  },
+  {
+    "qid": "4",
+    "questions": "Apakah undang-undang yang berkaitan dengan hak keistimewaan dan tanggungjawab raja serta pembesar?",
+    "correct_ans": "Hukum Kanun Melaka",
+    "incorrect1": "Hukum Kanun Pahang",
+    "incorrect2": "Undang-undang Laut Melaka",
+    "level": "3"
+  },
+  {
+    "qid": "6",
+    "questions": "Di manakah penjajahan pertama yang dilakukan oleh Portugis?",
+    "correct_ans": "Melaka",
+    "incorrect1": "Selangor",
+    "incorrect2": "Kelantan",
+    "level": "3"
+  },
+  {
+    "qid": "8",
+    "questions": "Mengapakah pendidikan pada peringkat maktab diperkenalkan?",
+    "correct_ans": "Melatih bakal guru",
+    "incorrect1": "Mendidik murid",
+    "incorrect2": "Melatih murid",
+    "level": "3"
+  },
+  {
+    "qid": "9",
+    "questions": "Apakah yang berlaku kepada Tok Janggut dalam pertempuran dengan British di Kampung Dalam Pupuh?",
+    "correct_ans": "Terkorban",
+    "incorrect1": "Mengalami kekalahan",
+    "incorrect2": "Mendapat kemenangan",
+    "level": "3"
+  },
+  {
+    "qid": "10",
+    "questions": "Apakah bentuk penjajahan baharu yang menghapuskan kuasa Raja-raja Melayu?",
+    "correct_ans": "Malayan Union",
+    "incorrect1": "Tanah Malaya",
+    "incorrect2": "Union Malayan",
+    "level": "3"
+  },
+  {
+    "qid": "17",
+    "questions": "Apakah kosa kata daripada bahasa Belanda yang memperkayakan perbendaharaan kata dalam bahasa Melayu?",
+    "correct_ans": "balkon",
+    "incorrect1": "hospital",
+    "incorrect2": "rajha",
+    "level": "3"
+  },
+  {
+    "qid": "18",
+    "questions": "Siapakah wakil UMNO untuk berunding dengan MCA bagi membentuk Parti Perikatan?",
+    "correct_ans": "Tun Dr. Ismail bin Dato' Abdul Rahman",
+    "incorrect1": "Dr. Burhanuddin al-Helmi",
+    "incorrect2": "Ishak Haji Muhammad",
+    "level": "3"
+  },
+  {
+    "qid": "20",
+    "questions": "Bagaimanakah pemilihan Yang di-Pertuan Agong dilaksanakan",
+    "correct_ans": "Sistem penggiliran",
+    "incorrect1": "Sistem pewarisan",
+    "incorrect2": "Sistem pemilikan",
+    "level": "3"
+  },
+  {
+    "qid": "21",
+    "questions": "Apakah perubahan yang berlaku pada Jata Negara dalam tahun 1965?",
+    "correct_ans": "Pengguguran lambang Singapura",
+    "incorrect1": "Pengguguran lambang perisai",
+    "incorrect2": "Pengguguran lambang keris",
+    "level": "3"
+  },
+  {
+    "qid": "23",
+    "questions": "Pernyataan berikut merujuk kepada etika pemasangan bendera.\r\n\r\n(Bendera hendaklah dinaikkan sepenuhnya dan kemudian diturunkan semula ke separuh tiang.)\r\n\r\nApakah situasi yang menyebabkan berlakunya etika tersebut?",
+    "correct_ans": "Berkabung",
+    "incorrect1": "Bergembira",
+    "incorrect2": "Berjaya",
+    "level": "3"
+  },
+  {
+    "qid": "30",
+    "questions": "Siapakah pahlawan tempatan yang dihukum buang negeri ke Mekah?",
+    "correct_ans": "Haji Abdul Rahman Limbong",
+    "incorrect1": "Yamtuan Antah",
+    "incorrect2": "Dato' Maharaja Lela",
+    "level": "3"
+  },
+  {
+    "qid": "31",
+    "questions": "Siapakah yang menerbitkan akhbar Suara Rakyat dan Voice of the People?",
+    "correct_ans": "Ahmad Boestamam",
+    "incorrect1": "Dato' Onn bin Jaafar",
+    "incorrect2": "Ishak Haji Muhammad",
+    "level": "3"
+  },
+  {
+    "qid": "32",
+    "questions": "Siapakah tokoh pejuang kemerdekaan yang memperjuangkan Konsep Melayu Raya?",
+    "correct_ans": "Dr. Burhanuddin al-Helmi",
+    "incorrect1": "Tun Dr. Ismail bin Dato' Abdul Rahman",
+    "incorrect2": "Ishak Haji Muhammad",
+    "level": "3"
+  },
+  {
+    "qid": "34",
+    "questions": "Apakah parti politik yang muncul pada tahun 19512",
+    "correct_ans": "Parti Islam Se-Malaya",
+    "incorrect1": "Malayan Indian Congress",
+    "incorrect2": "Parti Kebangsaan Melayu Malaya",
+    "level": "3"
+  },
+  {
+    "qid": "35",
+    "questions": "Apakah pakaian kebesaran diraja yang soleknya dinamakan (Dendam Tak Sudah)?",
+    "correct_ans": "Tengkolok diraja",
+    "incorrect1": "Pending diraja",
+    "incorrect2": "Keris pendek diraja",
+    "level": "3"
+  },
+  {
+    "qid": "36",
+    "questions": "Apakah cogan kata yang ditulis dalam tulisan Jawi dan bahasa Inggeris di bawah perisai pada Jata Negara?",
+    "correct_ans": "Bersekutu Bertambah Mutu",
+    "incorrect1": "Bersekutu Membawa Mutu",
+    "incorrect2": "Mutu Bertambah Sekutu",
+    "level": "3"
+  },
+  {
+    "qid": "41",
+    "questions": "Bagaimanakah agama Buddha dibawa ke Tanah Melayu?",
+    "correct_ans": "Aktiviti perdagangan",
+    "incorrect1": "Keturunan",
+    "incorrect2": "Warisan",
+    "level": "3"
+  },
+  {
+    "qid": "42",
+    "questions": "Apakah faktor kedatangan agama Islam yang tepat berdasarkan maklumat berikut?\r\n\r\n(Perkahwinan Megat Iskandar Shah dengan puteri Raja Pasai menyebabkan baginda memeluk agama Islam.)",
+    "correct_ans": "Peranan sultan",
+    "incorrect1": "Peranan ulama",
+    "incorrect2": "Peranan pedagang Islam",
+    "level": "3"
+  },
+  {
+    "qid": "43",
+    "questions": "Pada pendapat anda, bilakah zarnan yang menjadikan bahasa Melayu terkenal sehingga menjadi khazanah yang perlu diwarisi?",
+    "correct_ans": "Zaman Kesultanan Melayu Melaka",
+    "incorrect1": "Zaman Penjajahan British",
+    "incorrect2": "Zaman prasejarah",
+    "level": "3"
+  },
+  {
+    "qid": "44",
+    "questions": "Berdasarkan perkataan berikut, apakah antara pengaruh bahasa luar yang memperkayakan perbendaharaan kata dalam bahasa Melayu?\r\n\r\n(Kappal)",
+    "correct_ans": "Tamil",
+    "incorrect1": "Sikh",
+    "incorrect2": "Perancis",
+    "level": "3"
+  },
+  {
+    "qid": "45",
+    "questions": "Bagaimanakah British mula campur tangan di Perak pada tahun 1874?",
+    "correct_ans": "Perjanjian Pangkor",
+    "incorrect1": "Perjanjian London",
+    "incorrect2": "Perjanjian Inggeris-Belanda",
+    "level": "3"
+  },
+  {
+    "qid": "46",
+    "questions": "Apakah kuasa besar yang berjaya menguasai Tanah Melayu, Sarawak dan Sabah daripada Brit pada tahun 1942?",
+    "correct_ans": "Jepun",
+    "incorrect1": "Siam",
+    "incorrect2": "Belanda",
+    "level": "3"
+  },
+  {
+    "qid": "47",
+    "questions": "Apakah kaum yang dijadikan sebagai buruh paksa untuk membina jalan oleh SBUB?",
+    "correct_ans": "Murut",
+    "incorrect1": "Iban",
+    "incorrect2": "Melanau",
+    "level": "3"
+  },
+  {
+    "qid": "48",
+    "questions": "Mengapakah Dato' Maharaja Lela dijatuhi hukuman gantung?",
+    "correct_ans": "Mengambil tanggungjawab membunuh J.W.W. Birch",
+    "incorrect1": "Menyerang kubu Brooke",
+    "incorrect2": "Menyerang British",
+    "level": "3"
+  },
+  {
+    "qid": "49",
+    "questions": "Siapakah yang mewakili raja-raja Melayu dalam rombongan kemerdekaan Persekutuan Tanah Melayu ke London?",
+    "correct_ans": "Dato' Abdul Wahab bin Toh Muda Abdul Aziz",
+    "incorrect1": "Dr. Burhanuddin al-Helmi",
+    "incorrect2": "Tun V.T. Sambanthan",
+    "level": "3"
+  }
+]
